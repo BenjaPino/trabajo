@@ -1,3 +1,18 @@
 p{
     text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    
+}
+*{box-sizing: border-box;}
+.formulario{
+    border-radius: 2%;
+    margin-top: 150px;
+}
+body{
+    background: url(../imagenes/logo.jpg) no-repeat center top;
+    background-size: cover;
 }
