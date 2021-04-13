@@ -1,5 +1,6 @@
 p{
     text-align: center;
+    color: black;
     
 }
 h1{
@@ -8,11 +9,9 @@ h1{
     
 }
 *{box-sizing: border-box;}
-.formulario{
-    border-radius: 2%;
-    margin-top: 150px;
-}
+
 body{
     background: url(../imagenes/logo.jpg) no-repeat center top;
     background-size: cover;
 }
+
