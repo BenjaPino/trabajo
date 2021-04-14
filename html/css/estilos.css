@@ -1,6 +1,8 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
+    
+    
 }
 .navbar{
     background-color:  #ffffff;
@@ -28,6 +30,12 @@ body{
     margin: auto;
     margin-top: 150px;
     width: fit-content;
+    border-radius: 2%;
+    margin-bottom: 150px;
+    background-image: url(../imagenes/login.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
 }
 
 input[type="text"],
@@ -47,6 +55,7 @@ input[type="password"]{
     color: rgb(0, 0, 0);
     font-size: 23px;
 }
+
 
 
 
