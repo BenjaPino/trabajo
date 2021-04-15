@@ -1,0 +1,75 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    
+    
+}
+
+.navbar{
+    background-image: url(../imagenes/fondoarriba.jpg);
+    box-shadow: 0 2px 4px 0 rgba(138, 10, 10, 0.05);
+    min-height: 100px;
+    
+}
+
+.nav-link{ color: #000000;}
+.logo-brand{
+    min-width: 100px;
+    max-width: 120px;
+}
+
+.clearfix-padding {
+    clear: both;
+    padding: 2%;
+  }
+.footer{
+    background-color: rgb(131, 208, 243);
+    
+}
+.formulario{
+    padding: 20px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 150px;
+    width: fit-content;
+    border-radius: 10px;
+    margin-bottom: 150px;
+    box-shadow: 0 0 30px rgb(85, 117, 72);
+     
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"]{
+    font-size: 20px;
+    width: 100%;
+    padding: 10px;
+    border-style:none; 
+    background: transparent;
+    border: solid rgb(85, 117, 72);
+    border-radius: 10px;
+    outline: none;
+    color:#fff  ;
+}    
+::placeholder{
+    color:white;
+}
+.input-container{
+    margin-bottom: 15px;
+    border-style: none;
+}
+.button{
+    width: 100%;
+    color: #000;
+    font-size: 23px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    border-color: lightgreen;
+    outline: none;
+}
+
+
+
+
+
+ 
