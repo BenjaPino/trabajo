@@ -1,0 +1,20 @@
+p{
+    text-align: center;
+    color: black;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    
+}
+*{box-sizing: border-box;}
+
+body{
+    background-image: url(../imagenes/fondo.jfif) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
